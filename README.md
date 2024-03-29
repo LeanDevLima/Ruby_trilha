@@ -1,6 +1,6 @@
 # Ruby_trilha
 
-Esse repositório tem como propósito organizar os cursos que pretendo seguir a partir do dia 03/04/2024.
+🚀 Este repositório tem como propósito organizar os cursos que pretendo seguir a partir do dia 03/04/2024. 📚
 
 - Desafio de Ruby: [Entender meta programação e lógica em Ruby](https://www.torneseumprogramador.com.br/cursos/logica_programacao_ruby)
 - Desafio de Rails avançado: [Ruby avançado com Rails](https://www.torneseumprogramador.com.br/cursos/ruby_avancado)
@@ -15,3 +15,5 @@ Esse repositório tem como propósito organizar os cursos que pretendo seguir a 
   - [Curso de TDD com RSpec 2](https://www.torneseumprogramador.com.br/cursos/tdd_rspec_2)
   - [Curso de TDD com RSpec](https://www.torneseumprogramador.com.br/cursos/tdd_rspec)
 - Deploy e hospedagem (Desafio de estrutura da nuvem): [Curso de infraestrutura na nuvem](https://www.torneseumprogramador.com.br/cursos/infra_nuvem)
+
+Prepare-se para uma jornada incrível rumo ao domínio do Ruby e do Rails! 🌟
